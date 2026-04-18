@@ -9,3 +9,5 @@ Made during Pirate Software Game Jam 2025.
 Everything created by me
 
 Design Document: https://docs.google.com/document/d/1wFVHQ7NKvzT231wCoDyvb-dgHxnGnxYXvmpJOuvh3aU/...
+
+ITCH PAGE: https://gingertew.itch.io/love-at-first-flight
